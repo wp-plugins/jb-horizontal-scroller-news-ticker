@@ -12,7 +12,7 @@ JB Horizontal Scroller News Ticker is an awesome, Responsive plugin for your wor
 
 This plugin will enable Horizontal Scroller news ticker in your wordpress theme. You can embed news ticker via shortcode in everywhere you want, even in theme files. 
 
-Wanna see how it works? Click here: http://jobairbd.com/wpplugins/jb-news-ticker/
+Wanna see how it works? Click here: http://jobairbd.com/wpplugins/jb-horizontal-scroller-news-ticker/
 
 == Installation ==
 
